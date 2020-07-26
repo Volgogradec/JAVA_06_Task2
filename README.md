@@ -14,31 +14,31 @@
 
 Сам файл необходимо положить в каталог `resources` (каталог `resources` тоже нужно создать) следующим образом:
 
-![](pic/test-resources.png)
+![](https://github.com/netology-code/javaqa-homeworks/raw/master/params/pic/test-resources.png)
 
 Быстро это сделать можно вот так: `Alt + Insert` на каталоге `test` выбираете `New File` и дальше вводите имя файла вместе с именем каталога:
 
-![](pic/fast-creation.png)
+![](https://github.com/netology-code/javaqa-homeworks/raw/master/params/pic/fast-creation.png)
 
 IDEA сама за вас создаст и каталог, и файл.
 
 После чего в боковой панельке следует сделать reimport Maven-проекта:
 
-![](pic/reimport.png)
+![](https://github.com/netology-code/javaqa-homeworks/raw/master/params/pic/reimport.png)
 
 И IDEA поставит вам красивую иконочку на ресурсы для тестов:
 
-![](pic/test-resources-imported.png)
+![](https://github.com/netology-code/javaqa-homeworks/raw/master/params/pic/test-resources-imported.png)
 
 Сам файл вы можете редактировать прямо в IDEA (это обычный текстовый файл, но подчиняющийся правилам CSV).
 
 При этом обратите внимание, что кодировка файла UTF8:
 
-![](pic/encoding.png)
+![](https://github.com/netology-code/javaqa-homeworks/raw/master/params/pic/encoding.png)
 
 Если это не так - кликните на указанном поле и выберите UTF8:
 
-![](pic/utf8.png)
+![](https://github.com/netology-code/javaqa-homeworks/raw/master/params/pic/utf8.png)
 
 Вам нужно: загрузить исходные коды для этой аннотации (делается через IDEA), прочитать комментарии к элементам аннотации и использовать только те, которые нужны.
 
